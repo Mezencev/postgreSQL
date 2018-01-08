@@ -1,15 +1,15 @@
 {
   "development": {
-    "username": "mezencev",
-    "password": null,
+    "username": "postgres",
+    "password": "11235813",
     "database": "todos-dev",
     "host": "127.0.0.1",
     "port": 5432,
     "dialect": "postgres"
   },
   "test": {
-    "username": "mezencev",
-    "password": null,
+    "username": "pgrole",
+    "password": "z",
     "database": "todos-test",
     "host": "127.0.0.1",
     "port": 5432,
